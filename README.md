@@ -21,4 +21,3 @@ Módulo de gestão interna desenvolvido para o controle total da barbearia. Este
 * **Infraestrutura:** Cloud Deployment com IP dedicado.
 
 ---
-*Desenvolvido por Gustavo Izaias (Tecnologia77)*
